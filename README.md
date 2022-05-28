@@ -2,8 +2,9 @@
 
 This is a program made in Python to solve a list of sudokus stored at `sudokus.txt`. The sudokus are solved using backtraking. You can find the challenge and the sudoku's file at:
 
-https://projecteuler.net/problem=96
-https://projecteuler.net/project/resources/p096_sudoku.txt
+1. https://projecteuler.net/problem=96
+
+2. https://projecteuler.net/project/resources/p096_sudoku.txt
 
 ## Instructions
 
